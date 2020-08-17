@@ -8,6 +8,9 @@
 
 ---
 
+## 关于本仓库
+本人根据自己需要添加了一些内容 因为网络问题无法发pr 所以搞了个这个仓库www
+
 ## 提交错误/想法
 如果有任何错误或者想法, 请前往 [GitHub Issue](https://github.com/UntilTheEndDev/UntilTheEnd/issues?q=is%3Aissue)
 创建一个新的issue前请先确认是否有同样的issue, 不然你的issue可能不会被我们接受
